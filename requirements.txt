@@ -1,0 +1,17 @@
+Flask
+langchain
+langchain-community
+langchain-huggingface
+opencv-python
+Pillow
+numpy
+transformers
+torch
+diffusers
+SQLAlchemy
+python-dotenv
+matplotlib
+plotly
+accelerate
+requests
+google-cloud-texttospeech
